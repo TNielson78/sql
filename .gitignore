@@ -1,0 +1,5 @@
+#gitignore so items arent placed in github
+node_modules
+package-lock.json
+.vscode
+.DS_Store
