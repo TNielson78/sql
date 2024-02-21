@@ -32,7 +32,6 @@ CREATE TABLE employee (
 
 
 
-USE employee_db;
 
 
-```
+
