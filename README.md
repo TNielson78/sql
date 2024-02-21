@@ -32,4 +32,13 @@ Updates employee roles, departments, and salary.
 ## License   
     licensed under the MIT license
 
+    ![employees](https://github.com/TNielson78/sql/assets/147010160/1fa42afe-18e9-487a-ae95-f5f0baa55127)
+    
+
+![departments](https://github.com/TNielson78/sql/assets/147010160/e677f84c-6d4f-4f03-9a64-cd4805a02095)
+
+
+![roles](https://github.com/TNielson78/sql/assets/147010160/2cebd62b-c3ab-480d-9922-491a96f76d83)
+
+
 
